@@ -7,7 +7,7 @@
     },
     "slider": {
       "theme_base_url": "https://github.com/superhac/slider",
-      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider/raw/manifest.json",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider/raw/refs/heads/master/manifest.json",
       "default_install": false
     }
   }
