@@ -1,0 +1,14 @@
+{
+  "themes": {
+    "carousel-desktop": {
+      "theme_base_url": "https://github.com/superhac/vpinfe-theme-carousel-desktop",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-carousel-desktop/raw/refs/heads/master/manifest.json",
+      "default_install": true
+    },
+    "slider": {
+      "theme_base_url": "https://github.com/superhac/slide",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider/raw/manifest.json",
+      "default_install": true
+    }
+  }
+}
