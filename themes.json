@@ -24,6 +24,11 @@
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-slider-video",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider-video/raw/refs/heads/master/manifest.json",
       "default_install": false
+    },
+    "Basic Cab": {
+      "theme_base_url": "https://github.com/superhac/vpinfe-theme-basic-cab",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-basic-cab/raw/refs/heads/master/manifest.json",
+      "default_install": false
     }
   }
 }
