@@ -9,6 +9,11 @@
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-slider",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider/raw/refs/heads/master/manifest.json",
       "default_install": true
-    }
+    },
+    "cab": {
+      "theme_base_url": "https://github.com/superhac/vpinfe-theme-cab",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-cab/raw/refs/heads/master/manifest.json",
+      "default_install": false
+    },
   }
 }
