@@ -6,9 +6,9 @@
       "default_install": true
     },
     "slider": {
-      "theme_base_url": "https://github.com/superhac/slide",
+      "theme_base_url": "https://github.com/superhac/slider",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider/raw/manifest.json",
-      "default_install": true
+      "default_install": false
     }
   }
 }
