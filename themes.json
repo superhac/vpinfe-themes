@@ -39,7 +39,11 @@
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-revolution",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-revolution/raw/refs/heads/master/manifest.json",
       "default_install": false
+    },
+     "Texal": {
+      "theme_base_url": "https://github.com/superhac/vpinfe-theme-texal",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-texal/raw/refs/heads/master/manifest.json",
+      "default_install": false
     }
-
   }
 }
