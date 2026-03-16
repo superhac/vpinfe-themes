@@ -44,6 +44,11 @@
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-texal",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-texal/raw/refs/heads/master/manifest.json",
       "default_install": false
+    },
+     "Texal-Flyer": {
+      "theme_base_url": "https://github.com/superhac/vpinfe-theme-texal-flyer",
+      "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-texal-flyer/raw/refs/heads/master/manifest.json",
+      "default_install": false
     }
   }
 }
