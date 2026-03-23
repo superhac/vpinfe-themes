@@ -54,6 +54,6 @@
       "theme_base_url": "https://github.com/emb417/vpinfe-theme-trifecta",
       "theme_manifest_url": "https://github.com/emb417/vpinfe-theme-trifecta/raw/refs/heads/main/manifest.json",
       "default_install": false
-    },
+    }
   }
 }
