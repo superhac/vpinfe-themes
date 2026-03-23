@@ -49,6 +49,11 @@
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-texal-flyer",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-texal-flyer/raw/refs/heads/master/manifest.json",
       "default_install": false
-    }
+    },
+     "Trifecta": {
+      "theme_base_url": "https://github.com/emb417/vpinfe-theme-trifecta",
+      "theme_manifest_url": "https://github.com/emb417/vpinfe-theme-trifecta/raw/refs/heads/main/manifest.json",
+      "default_install": false
+    },
   }
 }
