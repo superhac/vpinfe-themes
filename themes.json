@@ -3,12 +3,12 @@
     "carousel-desktop": {
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-carousel-desktop",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-carousel-desktop/raw/refs/heads/master/manifest.json",
-      "default_install": true
+      "default_install": false
     },
     "slider": {
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-slider",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-slider/raw/refs/heads/master/manifest.json",
-      "default_install": true
+      "default_install": false
     },
     "cab": {
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-cab",
@@ -38,7 +38,7 @@
     "Revolution": {
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-revolution",
       "theme_manifest_url": "https://github.com/superhac/vpinfe-theme-revolution/raw/refs/heads/master/manifest.json",
-      "default_install": false
+      "default_install": true
     },
      "Texal": {
       "theme_base_url": "https://github.com/superhac/vpinfe-theme-texal",
